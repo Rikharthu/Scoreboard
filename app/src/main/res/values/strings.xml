@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scoreboard</string>
+    <string name="action_clear_strokes">clear all strokes</string>
+</resources>
